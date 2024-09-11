@@ -7,3 +7,5 @@ Communa is a messenger. Simple as that.
 - Security
 - Voice calls
 - ASCII Screen Sharing
+- # Slogan I made up
+Commune at a snail
